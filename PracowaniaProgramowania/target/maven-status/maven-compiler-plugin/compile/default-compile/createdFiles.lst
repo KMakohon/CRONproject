@@ -1,0 +1,6 @@
+quartz\scheduler\SimpleScheduler.class
+quartz\job\Osoba.class
+Tests\SimpleJobTest.class
+quartz\job\ZapisJob.class
+quartz\job\SimpleJob.class
+Tests\SimpleSchedulerTest.class
